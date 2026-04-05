@@ -1,6 +1,6 @@
 <h1 align="center">✨ AlphaStream - Video Chat & Language Exchange ✨</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+
 
 Highlights:
 
