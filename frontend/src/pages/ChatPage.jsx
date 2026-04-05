@@ -133,7 +133,7 @@ const ChatPage = () => {
     <div className="min-h-[93vh] md:min-h-[88vh] px-4 py-4 lg:px-6 lg:py-6">
       <Chat client={chatClient}>
         <Channel channel={channel}>
-          <div className="w-full relative min-h-[72vh] rounded-3xl overflow-hidden bg-base-200 shadow-sm">
+          <div className="w-full relative min-h-[72vh] rounded-3xl overflow-hidden bg-base-100 shadow-sm border border-base-300">
             <CallButton handleVideoCall={handleVideoCall} />
             <Window>
               <ChannelHeader />
