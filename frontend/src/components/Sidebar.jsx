@@ -10,11 +10,8 @@ const Sidebar = () => {
   return (
     <aside className="w-64 bg-base-200 border-r border-base-300 hidden lg:flex flex-col h-screen sticky top-0">
       <div className="p-5 border-b border-base-300">
-        <Link to="/" className="flex items-center gap-3">
+        <Link to="/" className="flex items-center justify-center">
           <img src="/logo.svg" alt="AlphaStream logo" className="w-11 h-11 rounded-2xl" />
-          <span className="text-3xl font-bold font-mono bg-clip-text text-transparent bg-gradient-to-r from-primary to-secondary tracking-wider">
-            AlphaStream
-          </span>
         </Link>
       </div>
 
