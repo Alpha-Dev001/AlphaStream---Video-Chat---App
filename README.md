@@ -1,4 +1,4 @@
-<h1 align="center">✨ AlphaStream - Video Chat & Language Exchange ✨</h1>
+<h1 align="center"> AlphaStream - Video Chat & Language Exchange </h1>
 
 
 
